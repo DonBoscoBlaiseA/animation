@@ -285,10 +285,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```  
+```
+## OUTPUT
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1326ee5c-30d0-44e9-974e-811359341d0f.png" width="600">  
 
-## OUTPUT 
-<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1326ee5c-30d0-44e9-974e-811359341d0f.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/8d34b6d2-97b0-4af7-b25a-96788299b476.png" height="600">
 <img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/f1009fa1-f4ca-43cd-9b66-aea135bb2668.png" height="600">
 <img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/ba33ae6a-a03f-4494-a0bb-37a604824b10.png" height="600">
