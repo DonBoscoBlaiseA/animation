@@ -10,7 +10,21 @@ To develop a application to add animation to imageview,move,blink,fade,clockwise
 Android Studio(Latest Version)
 
 ## ALGORITHM:
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as AndroidAnimations and click Next.
+
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Create separate xml files for move,blink,fade,clockwise,zoom and slide operation.
+
+Step 7: in MainActivity file.
+
+Step 8: Save and run the application.
 
 
 ## PROGRAM:
@@ -201,7 +215,7 @@ Registeration Number : 212221040045
 ```
 ## MainActivity.java
 ```
-package com.example.exp11;
+package com.example.animation;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle; import
@@ -213,8 +227,7 @@ import android.os.Bundle; import
 public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     Button blinkBTN, rotateBTN, fadeBTN, moveBTN, slideBTN, zoomBTN, stopBTN;
-    @Override protected void onCreate(Bundle
-                                              savedInstanceState) {
+    @Override protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         imageView = findViewById(R.id.imageView);
@@ -243,8 +256,8 @@ public class MainActivity extends AppCompatActivity {
             } });
         fadeBTN.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {// To
-                 Animation animation = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fade);
-                 imageView.startAnimation(animation);
+                Animation animation = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fade);
+                imageView.startAnimation(animation);
             } });
         moveBTN.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {
@@ -274,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```  
 
-## OUTPUT
-<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/e299d157-ebf9-4cd1-ba97-e831404f9956.png" height="600">
+## OUTPUT 
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1326ee5c-30d0-44e9-974e-811359341d0f.png" width="600">
 
 ## RESULT
