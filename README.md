@@ -286,6 +286,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ## OUTPUT
 <img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1326ee5c-30d0-44e9-974e-811359341d0f.png" width="600">  
 
