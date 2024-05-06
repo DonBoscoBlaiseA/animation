@@ -288,6 +288,14 @@ public class MainActivity extends AppCompatActivity {
 ```  
 
 ## OUTPUT 
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/8d34b6d2-97b0-4af7-b25a-96788299b476.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/f1009fa1-f4ca-43cd-9b66-aea135bb2668.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/ba33ae6a-a03f-4494-a0bb-37a604824b10.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/e144de86-74d7-43d3-aba1-81003e703886.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/4045b8d0-4fed-4010-aa30-f22f8cb93ce8.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1c27962e-48fa-4c8b-bf87-3ebd8a872347.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/07c169b0-84f8-4562-b48c-d24d65f076a6.png" height="600">  
 <img src="https://github.com/DonBoscoBlaiseA/animation/assets/140850829/1326ee5c-30d0-44e9-974e-811359341d0f.png" width="600">
 
 ## RESULT
+Thus, a Simple Android Application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
